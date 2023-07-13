@@ -5,11 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Halaman Login</title>
+    <link href="css/login.css" rel="stylesheet" />
 </head>
 <body>
     <div class="login-page">
         <div class="form">
           <form class="register-form">
+
             <input type="text" placeholder="name"/>
             <input type="password" placeholder="password"/>
             <input type="text" placeholder="email address"/>
