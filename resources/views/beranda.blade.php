@@ -47,7 +47,6 @@
                         <p class="lead mb-5">
                              Jadi universitasnya ini terletak di bumi khatulistiwa tepatnya di kalimantan barat, Kota Pontianak jika pengen tau lebih lanjut 
                             <a href="https://unmuhpnk.ac.id">Info selengkapnya</a>
-                            
                         </p>
                         <a class="btn btn-dark btn-xl" href="#services">Next</a>
                     </div>
@@ -58,7 +57,7 @@
         <section class="content-section bg-primary text-white text-center" id="services">
             <div class="container px-4 px-lg-5">
                 <div class="content-section-heading">
-                    <h3 class="text-secondary mb-0">Universitas Muhammadiyah Pontianak</h3>
+                    <h1 class="text-secondary mb-0">Universitas Muhammadiyah Pontianak</h1>
                     <h2 class="mb-5">Apa sih kelebihannya ?</h2>
                 </div>
                 <div class="row gx-4 gx-lg-5">
