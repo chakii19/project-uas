@@ -35,7 +35,7 @@
             <div class="container px-4 px-lg-5 text-center">
                 <h1 class="mb-1">Universitas Muhammadiyah Pontianak</h1>
                 <h3 class="mb-5"><em>Universitas Terbaik Di-kalimantan barat </em></h3>
-                <a class="btn btn-primary btn-xl" href="#about">Lanjut</a>
+                <a class="btn btn-primary btn-xl" href="#about">Next</a>
             </div>
         </header>
         <!-- About-->
@@ -45,11 +45,11 @@
                     <div class="col-lg-10">
                         <h2>Mau Tau ? Universitas nya ada di mana</h2>
                         <p class="lead mb-5">
-                            This theme features a flexible, UX friendly sidebar menu and stock photos from our friends at
+                             Jadi universitasnya ini terletak di bumi khatulistiwa tepatnya di kalimantan barat, Kota Pontianak jika pengen tau lebih lanjut 
                             <a href="https://unmuhpnk.ac.id">Info selengkapnya</a>
-                            !
+                            
                         </p>
-                        <a class="btn btn-dark btn-xl" href="#services">What We Offer</a>
+                        <a class="btn btn-dark btn-xl" href="#services">Next</a>
                     </div>
                 </div>
             </div>
@@ -58,33 +58,31 @@
         <section class="content-section bg-primary text-white text-center" id="services">
             <div class="container px-4 px-lg-5">
                 <div class="content-section-heading">
-                    <h3 class="text-secondary mb-0">Services</h3>
-                    <h2 class="mb-5">What We Offer</h2>
+                    <h3 class="text-secondary mb-0">Universitas Muhammadiyah Pontianak</h3>
+                    <h2 class="mb-5">Apa sih kelebihannya ?</h2>
                 </div>
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-screen-smartphone"></i></span>
-                        <h4><strong>Responsive</strong></h4>
-                        <p class="text-faded mb-0">Looks great on any screen size!</p>
+                        <h4><strong>Mudah Di-akses</strong></h4>
+                        <p class="text-faded mb-0">Bisa lewat website resmi UM Pontianak</p>
                     </div>
                     <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-pencil"></i></span>
-                        <h4><strong>Redesigned</strong></h4>
-                        <p class="text-faded mb-0">Freshly redesigned for Bootstrap 5.</p>
+                        <h4><strong>Prestasi</strong></h4>
+                        <p class="text-faded mb-0">Kebanyakan MHS UM Pontianak memiliki prestasi setiap tahun nya </p>
                     </div>
                     <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-like"></i></span>
-                        <h4><strong>Favorited</strong></h4>
+                        <h4><strong>Akreditasi</strong></h4>
                         <p class="text-faded mb-0">
-                            Millions of users
-                            <i class="fas fa-heart"></i>
-                            Start Bootstrap!
+                            Memiliki akreditasi yang memuaskan
                         </p>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <span class="service-icon rounded-circle mx-auto mb-3"><i class="icon-mustache"></i></span>
-                        <h4><strong>Question</strong></h4>
-                        <p class="text-faded mb-0">I mustache you a question...</p>
+                        <h4><strong>Dosen</strong></h4>
+                        <p class="text-faded mb-0">Memiliki dosen rat-rata jejang magister atau S2</p>
                     </div>
                 </div>
             </div>
